@@ -1,0 +1,23 @@
+@media (max-width: 768px) {
+  .nav-section {
+    flex-direction: column;
+  }
+
+  .logo {
+    margin-top: 100px;
+  }
+
+  .logo img {
+    position: absolute;
+  }
+  .navbar {
+    flex-direction: column;
+    align-items: center;
+    margin-top: 10px;
+    margin-bottom: 20px;
+  }
+  .nav-item {
+    font-size: 20px;
+    padding: 10px;
+  }
+}
